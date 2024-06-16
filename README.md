@@ -48,4 +48,4 @@
   </tr>
 </table>
 <br>
-<img src = "https://github.com/Gayatri-14/Gaytri-14/blob/output/github-snake-dark.svg" alt = "status_of_read_me">
+<img src = "https://github.com/Gayatri-14/Gayatri-14/blob/output/github-snake-dark.svg" alt = "status_of_read_me">
